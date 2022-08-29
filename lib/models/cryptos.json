@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Bitcoin",
+    "symbol": "btc"
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "eth"
+  },
+  {"name": " Cosmos", "symbol": "atom"}, {"name": " Binance-Coin", "symbol": "bnb"}, {"name": " DigiByte", "symbol": "dgb"}, {"name": " Enjin-Coin", "symbol": "enj"}, {"name": " EOS", "symbol": "eos"}, {"name": " Gnosis-Token", "symbol": "gno"}, {"name": " IOStoken", "symbol": "iost"}, {"name": " IoTeX", "symbol": "iotx"}, {"name": " Lisk", "symbol": "lsk"}, {"name": " Litecoin", "symbol": "ltc"}, {"name": " Ontology", "symbol": "ont"}, {"name": " Qtum", "symbol": "qtum"}, {"name": " Storj", "symbol": "storj"}, {"name": " Theta-Token", "symbol": "theta"}, {"name": " Tronix", "symbol": "trx"}, {"name": " Waves", "symbol": "waves"}, {"name": " NEM", "symbol": "xem"}, {"name": " Verge", "symbol": "xvg"}, {"name": " ZCoin", "symbol": "xzc"}]
